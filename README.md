@@ -23,4 +23,4 @@ Aquí voy dejando lo que hago en Tecnologías Digitales Aplicadas: qué constru�
 
 ## Trucos que me apunto
 
-- [Cuando descubras algo que no te enseñó nadie, apúntalo aquí.]
+- Cuando descubras algo que no te enseñó nadie, apúntalo aquí.
