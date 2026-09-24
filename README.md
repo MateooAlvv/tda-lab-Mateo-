@@ -1,4 +1,4 @@
-# TDA Lab de [ESCRIBE AQUÍ TU NOMBRE]
+# TDA Lab de Mateo Álvarez
 
 **[TU CURSO] · Curso 2026-2027**
 
