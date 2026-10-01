@@ -17,5 +17,5 @@ Leo Messi considerado de los mejores jugadores de la historia del futbol, el arg
 
 [Pagina Premio Princesa Asturias](https://www.fpa.es/...)
 
-![Foto Messi](capturas/NOMBRE-DE-TU-IMAGEN.jpg)
+![Foto Messi](capturas/Messi.jpg)
 
