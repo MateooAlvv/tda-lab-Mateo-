@@ -15,7 +15,7 @@ Llevo jugando al futbol desde que tengo 8 años, he jugado toda mi vida en el La
 
 Leo Messi considerado de los mejores jugadores de la historia del futbol, el argentino futbolista actual del Inter de Miami, ha recibido el Premio Princesa de Asturias de los deportes 2026, ha sido premiado debido a su desempeño a lo largo de toda su carrera futbolística aparte de su gran calidad actual, el jugador con mas trofeos de la historia. También se a tenido en cuenta sus aportaciones sociales y su interés en apoyar la educación de los jóvenes en argentina. Le e elegido ya que de todos los premios que había el de deportes es el que más me interesaba y porque llevo jugando al futbol toda mi vida, aparte vi jugar a Messi desde que tengo uso de razón.
 
-[Pagina Premio Princesa Asturias](https://www.fpa.es/...)
+[Pagina Premio Princesa Asturias](https://www.fpa.es/es/premios-princesa-de-asturias/premiados/2026-leo-messi/?)
 
 ![Foto Messi](capturas/Messi.jpg)
 
